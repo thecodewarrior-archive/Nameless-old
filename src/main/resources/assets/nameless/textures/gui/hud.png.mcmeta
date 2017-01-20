@@ -1,0 +1,13 @@
+{
+	"spritesheet": {
+		"textureWidth": 256,
+		"textureHeight": 256,
+		"sprites": {
+			"glass_back": [0, 0, 73, 11],
+			"glass_front": [0, 22, 73, 11],
+			"filling": [5, 11, 65, 11],
+			"sideways_bar": [0, 33, 128, 2],
+			"ring": [0, 35, 2, 13]
+		}
+	}
+}

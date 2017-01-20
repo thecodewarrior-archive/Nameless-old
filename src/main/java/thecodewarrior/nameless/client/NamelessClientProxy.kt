@@ -1,6 +1,7 @@
 package thecodewarrior.nameless.client
 
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+import thecodewarrior.nameless.client.gui.CastingOverlay
 import thecodewarrior.nameless.client.particle.Particles
 import thecodewarrior.nameless.common.NamelessCommonProxy
 
@@ -16,5 +17,6 @@ class NamelessClientProxy : NamelessCommonProxy() {
 
         Keybinds
         Particles
+        CastingOverlay
     }
 }
